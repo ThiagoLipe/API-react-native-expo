@@ -1,2 +1,2 @@
 # API-react-native-expo
-Aplicativo em react native + expo para Coding Mobile, será upado no fim de semana.
+Aplicativo para consultar a temperatura em react native + expo para Coding Mobile.
