@@ -1,2 +1,2 @@
-# API-react-native-expo
-Aplicativo para consultar a temperatura em react native + expo para Coding Mobile.
+# App-tempo-react-native+expo
+Aplicativo para consultar o tempo em react native + expo para Coding Mobile.
